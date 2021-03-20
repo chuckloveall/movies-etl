@@ -1,3 +1,4 @@
+
 # movies-etl
 Using ETL, and database management to create a database about movies.
 
@@ -40,3 +41,4 @@ Ultimately, we decided to use groupby and filtering in order to make the format 
 If we had more time, we would have done the groupby Actors/Actresses as well. We would also add in more information based on the IMDB Database. 
 
 We would have preferred to use the cleaned data titles for each column in order to distinguish between Golden Globes, Oscars, and IMDB. 
+
